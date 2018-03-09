@@ -1,2 +1,3 @@
 Ainda mais um ....
-AHHHH!!!!
+Este commit tem o objetivo de actualizar o ficheiro 3
+Este exercicio está englobado no âmbito de uma ficha pratica de git
