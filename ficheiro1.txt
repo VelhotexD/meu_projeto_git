@@ -1,3 +1,5 @@
+Alterações efectuadas no Branch 'NOVAFEATURE'
+
 Este é o exemplo de um ficheiro de texto.
 
 Estou a fazer alterações ao ficheiro.
